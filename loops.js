@@ -27,6 +27,6 @@ function doWhileLoop(array) {
   }
   
   do {
-    console.log('array')
+    console.log('array.length')
   }
 }
