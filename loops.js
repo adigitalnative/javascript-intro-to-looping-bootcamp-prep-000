@@ -27,6 +27,7 @@ function doWhileLoop(array) {
   }
   
   do {
-    array.slice(1)
+    array.slice(1);
+    incrementVariable()
   }
 }
