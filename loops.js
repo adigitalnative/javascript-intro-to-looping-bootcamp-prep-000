@@ -1,3 +1,5 @@
 function forLoop(array) {
- // Do something
+ for (let i = 0; i < 25, i++) {
+   
+ }
 }
