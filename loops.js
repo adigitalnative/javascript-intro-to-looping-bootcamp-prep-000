@@ -1,9 +1,5 @@
-function forLoop {
-  var arrayToAdd = []
-
-  for (let i = 0; i < 25; i++) {
-    arrayToAdd.push(`I am ${i} strange loop.`)  
+function forLoop(array) {
+  for (var i=0; i < 25, i++) {
+    array.push(`I am ${i} strange loops.`)
   }
-
-  return arrayToAdd
 }
