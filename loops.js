@@ -1,3 +1,7 @@
-for (let i = 1; i < 10; i++) {
-  
+var arrayToAdd = []
+
+for (let i = 0; i < 25; i++) {
+  arrayToAdd.push(`I am ${i} strange loop.`)  
 }
+
+return array
