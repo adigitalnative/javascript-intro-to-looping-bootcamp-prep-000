@@ -27,6 +27,6 @@ function doWhileLoop(array) {
   }
   
   do {
-    [loopbody];
-  } while ([condition]);
+    console.log
+  }
 }
